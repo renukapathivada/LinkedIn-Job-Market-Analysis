@@ -59,4 +59,9 @@ Expected columns:
 - Feature engineering for salary imputation
 - Modular function-based design
 - Interactive UI with real-time filtering
+## Preview
+
+![Dashboard](screenshots/image1.png)
+![Dashboard](screenshots/image2.png)
+![Dashboard](screenshots/image3.png)
 
